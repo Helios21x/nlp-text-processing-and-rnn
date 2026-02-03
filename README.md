@@ -49,7 +49,7 @@ to process textual data.
 ## Recurrent Neural Network (RNN)
 A Recurrent Neural Network model is implemented to demonstrate sequence modeling:
 
-- Model used: **LSTM / GRU**
+- Model used: **LSTM**
 - Input: Vectorized text sequences
 - Objective: Learn sequential dependencies in text
 
